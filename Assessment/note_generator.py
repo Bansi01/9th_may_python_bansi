@@ -7,3 +7,4 @@ def generate_note(title, content):
         "created_at": datetime.datetime.now()
     }
     return note
+
